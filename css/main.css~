@@ -1,0 +1,148 @@
+
+
+.header{
+    position: absolute;
+    right: 0;
+    margin: 15px 27px;
+}
+
+
+
+.wrapper {
+    background: #fff;
+    position: relative;
+    min-width: 980px;
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    
+}
+ 
+
+
+
+ul{
+    list-style-type: none;
+}
+
+.header li{
+    display: block;
+    float: left;
+}
+
+.header li a{
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header li a:hover {
+    text-decoration: underline;
+}
+
+
+ a:hover {
+    text-decoration: underline;
+}
+
+.button {
+    border-radius: 2px;
+}
+
+.header .button {
+    background: #4683ea;
+    color: white;
+    border: 1px solid #4683ea;
+    font-size: .8em;
+    padding: 8px 12px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 3px;
+}
+
+.center{
+    padding-top: 200px;
+    width: 590px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+span {
+
+text-decoration: none; }
+
+form{
+    margin: 16px;
+}
+
+
+input[type=text] {
+    width: 556px;
+    height: 46px;
+    padding-top: 7px;
+    padding-right: 70px;
+    padding-left: 16px;
+    padding-bottom: 7px;
+    font-size: 17px;
+    outline: none;
+    box-sizing: border-box;
+    margin-top: 10px;
+}
+
+.searchForm{
+    position: relative;
+
+}
+
+.searchForm img{
+    position: absolute;
+    top: 16;
+    right: 24;
+}
+
+
+.buttons{
+margin: 16px;
+}
+
+.buttons input[type=submit]{
+    background: #f2f2f2;
+    color: rgba(0,0,0,.54);
+    border: 1px solid #f2f2f2;
+    font-size: 1em;
+    padding: 10px 15px;
+    font-weight: bold;
+    margin-top: 8px;
+    margin-right: 3px;
+    margin-left: 3px;
+    margin-bottom: 16px;
+    
+    
+}
+
+footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: #f2f2f2;
+}
+
+footer ul {
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+}
+
+#location {
+    padding: 10px;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.54);  
+}
+
+li a {
+    color: rgba(0,0,0,.54);
+    display: block;
+    padding: 10px;
+    float: left;
+}

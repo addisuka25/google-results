@@ -1,0 +1,300 @@
+body {
+    position: relative;
+    color: #222;
+}
+
+.header {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 110px;
+}
+
+.image-form {
+    position: relative;
+    top: 20px;
+    height: 46px;
+    width: 100%;
+}
+
+
+
+.searchform{
+    position: absolute;
+    top: 0;
+    left: 150px;
+}
+
+#logo{
+    margin-left: 10px;
+}
+
+
+input[type=text] {
+    width: 632px;
+    height: 46px;
+    box-sizing: border-box;
+}
+
+form {
+    position: relative;
+}
+
+form .mic {
+    position: absolute;
+    top: 7;
+    right:60px;
+}
+
+form .search{
+    position: absolute;
+    top: 8;
+    right: 15px;
+}
+
+.right-nav{
+    position: absolute;
+    top: 10px;
+    right: 30;
+    
+}
+
+.image-form ul {
+    list-style-type: none;
+}
+
+.image-form ul li{
+    display: block;
+    float: left;
+    margin-left: 10px;
+}
+
+
+.header .button {
+    border-radius: 2px;
+    background: #4683ea;
+    color: white;
+    border: 1px solid #4683ea;
+    font-size: .8em;
+    padding: 8px 12px;
+    font-weight: bold;
+    margin-left: 8px;
+}
+
+.top-nav {
+    position: absolute;
+    bottom: 0;
+    height: 42px;
+    width: 100%;
+
+    background: #fafafa;
+    color: #666;
+    font-size: 13px;
+    border-bottom: 1px solid #ebebeb;
+   
+}
+
+.inner-nav{
+    position: absolute;
+    left: 150px;
+    bottom: 0px;
+   
+    width: 632px;
+}
+
+.inner-nav ul{
+    list-style-type: none;
+}
+
+.inner-nav ul li {
+    display: block;
+    float: left;
+    padding-bottom: 10px;
+}
+
+.inner-nav ul li a{
+    padding-right: 18px;
+    color: #222;
+    margin: 8px 8px 10px 0;
+}
+
+a:active{
+    border-bottom: 3px solid #1A73E8;
+    color: #1A73E8;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+}
+
+.right{
+    float: right;
+}
+
+.left{
+    float: left;
+}
+
+.main{
+    background-color: red;
+    position: absolute;
+    width: 632px;
+    left: 150px;
+    top: 110px;
+    height: 600px;
+}
+
+
+
+/*
+
+ul{
+    list-style: none;
+}
+
+.header ul li{
+    display: block;
+    float: left;
+}
+
+
+
+.searchform {
+    position: absolute;
+    top: 0;
+    left: 300px;
+}
+
+input[type=text] {
+    width: 632px;
+    height: 46px;
+    box-sizing: border-box;
+}
+
+form{
+    position: relative;
+}
+
+
+
+.image-form {
+    background-color: blue;
+    width: 100%;
+    height: 70px;
+    position: relative;
+    top: 20px;
+}
+
+
+
+
+
+body {
+    background: #fff;
+    position: relative;
+    min-width: 980px;
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    
+}
+ 
+
+
+
+ul{
+    list-style-type: none;
+}
+
+.header li{
+    display: block;
+    float: left;
+}
+
+.header li a{
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header li a:hover {
+    text-decoration: underline;
+}
+
+
+
+.button {
+    border-radius: 2px;
+}
+
+.header .button {
+    background: #4683ea;
+    color: white;
+    border: 1px solid #4683ea;
+    font-size: .8em;
+    padding: 8px 12px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 3px;
+}
+
+
+.searchForm{
+    position: relative;
+
+}
+
+.searchForm img{
+    position: absolute;
+    top: 16;
+    right: 24;
+}
+
+
+.buttons{
+margin: 16px;
+}
+
+.buttons input[type=submit]{
+    background: #f2f2f2;
+    color: rgba(0,0,0,.54);
+    border: 1px solid #f2f2f2;
+    font-size: 0.9em;
+    padding: 10px 15px;
+    font-weight: bold;
+    margin-top: 8px;
+    margin-right: 3px;
+    margin-left: 3px;
+    margin-bottom: 16px;
+    
+    
+}
+
+footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: #f2f2f2;
+}
+
+footer ul {
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+}
+
+#location {
+    padding: 10px;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.54);  
+}
+
+li a {
+    color: rgba(0,0,0,.54);
+    display: block;
+    padding: 10px;
+    float: left;
+}
+*/
