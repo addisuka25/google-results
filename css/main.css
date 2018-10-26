@@ -137,13 +137,118 @@ a{
 }
 
 .main{
-    background-color: red;
     position: absolute;
     width: 632px;
     left: 150px;
-    top: 110px;
+    top: 160px;
     height: 600px;
+    
 }
+
+.main ul{
+    margin-bottom: 40px;
+}
+#resultStat {
+    line-height: 40px;
+    color: #808080;
+    position: absolute;
+    top: 110px;
+    height: 30px;
+    left: 150px;
+}
+
+.advert
+{
+    display: inline-block;
+    margin-bottom: 9px;
+}
+
+.main ul .advert-wrapper{
+    margin-top: 5px;
+}
+
+.Ad-txt {
+    margin-right: 5px;
+    color: #006621;
+    font-size: 11px;
+    border: 1px solid #006621;
+    padding: 1px 3px 1px 2px;
+    border-radius: 3px;
+}
+
+.cite-link {
+    color: #006621;
+}
+
+.main p {
+    font-size: 13px;
+    line-height: 18px;
+}
+
+.main .block {
+    margin-top: 10px;
+}
+
+.main .block li{
+    display: inline-block;
+    margin-left: 28px;
+    margin-right: 230px;
+    width: 50px;
+}
+
+.main ul .listItem{
+    margin-top: 2px;
+    font-size: 13px;
+    line-height: 18px;
+}
+.main ul .listItem li{
+    display: inline;
+    margin-right: 8px;
+}
+
+.med-content {
+    background-color: #f2f2f2;
+    height: 270px;
+    border-radius: 3px;
+    border: 1px solid white;
+    padding: 0 16px;
+    font-size: 16px;
+}
+
+
+.med-content ol{
+    margin-top: 10px;
+    list-style: number;
+    padding: 0 20px;
+    margin-bottom: 30px;
+}
+
+.about-results span{
+float: right;
+margin-right: 20px;
+}
+
+.about-results{
+    margin-bottom: 30px;
+}
+
+
+.med-two {
+    background-color: #f2f2f2;
+    height: 170px;
+    border-radius: 3px;
+    border: 2px solid gray;
+    padding: 0 16px;
+    font-size: 16px;
+}
+
+
+.med-two div{
+    border: 1px solid lightgrey;
+}
+
+
+
 
 
 
