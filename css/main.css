@@ -256,6 +256,11 @@ a{
     margin-bottom: 15px;
 }
 
+.med-content img {
+   float: right;
+
+}
+
 
 .med-content .med-top{
     padding: 16px 16px 0 16px;
@@ -323,3 +328,40 @@ a{
 }
 
 
+.f{
+    color: #808080;
+}
+
+.Asked h2{
+    margin: 0 16px;
+    font-size: 18px;  
+    
+    color: #222;  
+}
+
+.Asked p{
+    color: #777;
+    margin: 0 0 3px 16px;
+    padding-top: 16px;
+}
+
+.icons {
+    background-color: red;
+    padding-bottom: 4px;
+    padding-top: 14px;
+}
+
+.icons-div{
+    height: 400px;
+}
+
+ .iconPic{
+    float: left;
+
+}
+
+
+
+.iconPic h3{
+    clear: both;
+}
