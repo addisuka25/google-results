@@ -108,12 +108,13 @@ form .search{
 
 #active{
     border-bottom: 3px solid #4285f4;
-   
+    
 }
 
 #active a {
     font-weight: bold;
     color: #4285f4;
+    text-decoration: none;
 }
 
 .inner-nav{
